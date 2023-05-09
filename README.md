@@ -10,7 +10,7 @@ We will run the training code on Databricks Community Edition. Create your accou
 
 ### Databricks workspace
 
-You can now create a Databricks workspace with the required Jupyter notebooks [using this link](). The steps for doing this can be seen in the below GIF.  
+You can now create a Databricks workspace with the required Jupyter notebooks [using this link](https://storage.googleapis.com/odsc-23/ODSC%20PySpark%20NLP%20session.dbc). The steps for doing this can be seen in the below GIF.  
 
 From the left-hand side navbar, click on `Workspace` > click on dropdown >  click on `Import` > choose `URL` option and enter the link > click on `Import`.
 
